@@ -1,0 +1,41 @@
+name: Fairness proposal
+description: A way to make Pollreal votes or rankings harder to game, or a flaw you found.
+title: "[Fairness] "
+labels: ["fairness"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep Pollreal honest. Please do not post working exploits here — for a live hole that could be abused right now, e-mail hello@pollreal.com instead.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - One real person, one vote
+        - Bandwagon / when results are shown
+        - Rallies and brigades
+        - Framing and candidates (incl. AI cards)
+        - Rankings method
+        - Money and conflicts of interest
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What could go wrong today?
+      description: The weakness or unfairness you see, as concretely as you can.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would you change?
+    validations:
+      required: true
+  - type: textarea
+    id: cost
+    attributes:
+      label: What would it cost honest voters?
+      description: Extra steps, privacy, speed — every fix has a price.

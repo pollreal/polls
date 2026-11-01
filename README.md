@@ -7,3 +7,11 @@ Head-to-head votes on AI tools and products, decided by **verified humans**: one
 This repository is the public list of polls and their live badges. It is rebuilt every day from https://pollreal.com. The Pollreal service itself is not open source.
 
 **Pollreal opens soon.** The poll list and rankings appear here on launch day.
+
+## Help keep it fair
+
+Pollreal is only useful if its results are hard to fake. [FAIRNESS.md](FAIRNESS.md) lists what is in place, the trade-offs, and the open questions.
+
+- **Argue with the method:** [Discussions](https://github.com/pollreal/polls/discussions)
+- **Propose a fix or report a weakness:** [Fairness proposal](https://github.com/pollreal/polls/issues/new?template=fairness.yml) (live, abusable holes: hello@pollreal.com)
+- **Want a matchup?** [Suggest one](https://github.com/pollreal/polls/issues/new?template=matchup.yml)

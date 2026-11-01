@@ -55,6 +55,14 @@ if (data.rankings.length) {
 }
 lines.push('')
 
+lines.push('## Help keep it fair')
+lines.push('')
+lines.push('Pollreal is only useful if its results are hard to fake. [FAIRNESS.md](FAIRNESS.md) lists what is in place, the trade-offs, and the open questions.')
+lines.push('')
+lines.push('- **Argue with the method:** [Discussions](https://github.com/pollreal/polls/discussions)')
+lines.push('- **Propose a fix or report a weakness:** [Fairness proposal](https://github.com/pollreal/polls/issues/new?template=fairness.yml) (live, abusable holes: hello@pollreal.com)')
+lines.push('- **Want a matchup?** [Suggest one](https://github.com/pollreal/polls/issues/new?template=matchup.yml)')
+lines.push('')
 lines.push('## Polls')
 lines.push('')
 if (!data.polls.length) lines.push('_No polls yet._')

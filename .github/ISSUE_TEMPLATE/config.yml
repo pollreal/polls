@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discuss the fairness model
+    url: https://github.com/pollreal/polls/discussions
+    about: Questions, ideas and objections about how Pollreal counts and ranks votes.
+  - name: Report a live abuse privately
+    url: mailto:hello@pollreal.com
+    about: A hole that could be abused right now — please don't post it publicly.

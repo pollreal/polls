@@ -1,0 +1,20 @@
+name: Suggest a matchup
+description: Two to four AI tools or products you would like to see head to head.
+title: "[Matchup] "
+labels: ["matchup"]
+body:
+  - type: input
+    id: candidates
+    attributes:
+      label: Candidates (2–4)
+      placeholder: "Cursor vs Windsurf vs GitHub Copilot"
+    validations:
+      required: true
+  - type: input
+    id: question
+    attributes:
+      label: The question in one line (optional)
+      placeholder: "Best for a large TypeScript monorepo?"
+  - type: markdown
+    attributes:
+      value: You can also create the poll yourself at https://pollreal.com/new after a one-time sign-up.
