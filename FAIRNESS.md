@@ -51,7 +51,7 @@ We keep a few anti-abuse details private (exact limits and detection signals), b
 
 **Today**
 - Each vote is a head-to-head result between the chosen product and each other candidate in that poll. Scores come from the Bradley–Terry model (as in the LMSYS Chatbot Arena), with 95% ranges; overlapping ranges share a rank.
-- Votes lose half their weight every 90 days. Only closed polls count. A product is ranked from 300 votes against at least 3 different rivals.
+- Votes lose half their weight every 90 days. Only closed polls count. A product is ranked from 30 votes against at least 3 different rivals.
 
 **Open questions**
 - Should one very large poll be capped so it cannot dominate a pair?
