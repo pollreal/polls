@@ -8,6 +8,18 @@ This repository is the public list of polls and their live badges. It is rebuilt
 
 **Pollreal opens soon.** The poll list and rankings appear here on launch day.
 
+## Results as a head-to-head health bar
+
+Lists of numbers are boring, so every Pollreal result is drawn as one bar, like the health bars in a fighting game. Each candidate holds a piece of the bar; the leader is copper, the others slate. When the lead changes, the boundary slides instead of the bar flipping. The same bar is on the poll page, the share image and the README badge.
+
+<p>
+<img src="assets/gauge-example-final.svg" width="480" alt="Example gauge: Tool A wins 57.8% of 540 votes"><br>
+<img src="assets/gauge-example-three.svg" width="480" alt="Example gauge: three candidates"><br>
+<img src="assets/gauge-example-open.svg" width="480" alt="Example gauge: poll still open, split shown only to voters">
+</p>
+
+_Illustrative numbers, not real results._ While a poll is open the split is visible only to people who voted, so the bar stays blank until it closes (third example). Ideas to make it better: [Discussions](https://github.com/pollreal/polls/discussions).
+
 ## Help keep it fair
 
 Pollreal is only useful if its results are hard to fake. [FAIRNESS.md](FAIRNESS.md) lists what is in place, the trade-offs, and the open questions.
