@@ -26,9 +26,7 @@ _Illustrative numbers, not real results._ While a poll is open the split is visi
 
 Scores use the Bradley–Terry model on every verified vote (the method behind the LMSYS Chatbot Arena), with 95% ranges; products are ranked from 30 votes against 3 different rivals. Full method: https://pollreal.com/rank
 
-| Category | Ranked products | |
-|---|---:|---|
-| Chatbots & assistants | 0 of 2 | [Ranking](https://pollreal.com/rank/ai-assistants) |
+_Rankings appear once polls have closed._
 
 ## Help keep it fair
 
@@ -107,4 +105,4 @@ Every poll has a badge that updates by itself. Add `?for=N` to speak for candida
 While a poll is open its split is shown only to people who voted, so the badge says "voting"; the numbers appear when it closes.
 
 ---
-Updated 2026-11-03 18:49 UTC from https://pollreal.com/api/public/polls
+Updated 2026-11-03 18:51 UTC from https://pollreal.com/api/public/polls
