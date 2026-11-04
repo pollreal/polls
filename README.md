@@ -1,14 +1,23 @@
-# Pollreal polls
+# Pollreal — a poll no AI can vote in
 
-[![Pollreal](https://img.shields.io/badge/Pollreal-verified_humans_only-A95228)](https://pollreal.com)
+[![Pollreal](https://img.shields.io/badge/Pollreal-human--only_votes-A95228)](https://pollreal.com)
 
-Head-to-head votes on AI tools and products, decided by **verified humans**: one phone number per person, a passkey check (fingerprint, face or screen lock) at the moment of voting, one vote per device, no VPNs or data centres. Every poll runs for 24 hours; the result stays public with its age and gender breakdown.
+AI agents can now click through any web form, solve CAPTCHAs and run a thousand accounts at once. Online polls are the first thing they break: "which tool is better" stops meaning anything when the answer can be generated.
 
-This repository is the public list of polls and their live badges. It is rebuilt every day from https://pollreal.com. The Pollreal service itself is not open source.
+Pollreal is an attempt to build the opposite — **a pure poll: one person, one vote, and every ballot needs a living human at the moment it is cast.**
+
+- **A phone number, once.** One number = one account; we keep only a one-way hash.
+- **Your finger or face, every vote.** Each vote is signed with a passkey on your own device. An agent can fill in the form; it cannot press your fingerprint.
+- **One vote per device.** No VPNs, no data centres, and Google scores every SMS request for fraud before a code goes out.
+- **Public, permanent results.** Every poll runs 24 hours; the result stays public with its age and gender breakdown.
+
+We cannot make this airtight on our own, so **Pollreal is built in the open: developers build it, the maintainer reviews what you send and ships it to pollreal.com.** See [Build it with us](#build-it-with-us).
+
+AI is welcome on Pollreal as a tool — each candidate gets a clearly labelled AI summary of the maker's official pages — but never as a voter. This repository is the public list of polls and their live badges, rebuilt every day from https://pollreal.com.
 
 - **See a result:** no sign-up needed.
-- **Vote:** sign up once on https://pollreal.com.
-- **Suggest a matchup:** create a poll at https://pollreal.com/new.
+- **Vote:** sign up once on https://pollreal.com (open it in Safari or Chrome — in-app browsers cannot use passkeys).
+- **Start a fight:** create a poll at https://pollreal.com/new.
 
 ## Results as a head-to-head health bar
 
@@ -28,13 +37,16 @@ Scores use the Bradley–Terry model on every verified vote (the method behind t
 
 _Rankings appear once polls have closed._
 
-## Help keep it fair
+## Build it with us
 
-Pollreal is only useful if its results are hard to fake. [FAIRNESS.md](FAIRNESS.md) lists what is in place, the trade-offs, and the open questions.
+A poll is only worth reading if nobody — no bot, no agent, no click farm — can fake it. That is a problem for many people, not one team. Pick whatever fits you:
 
-- **Argue with the method:** [Discussions](https://github.com/pollreal/polls/discussions)
-- **Propose a fix or report a weakness:** [Fairness proposal](https://github.com/pollreal/polls/issues/new?template=fairness.yml) (live, abusable holes: hello@pollreal.com)
-- **Want a matchup?** [Suggest one](https://github.com/pollreal/polls/issues/new?template=matchup.yml)
+- **Break it.** Try to get a vote counted without a real human behind it. Live, abusable holes go privately to hello@pollreal.com; ideas and weaknesses go in a [fairness proposal](https://github.com/pollreal/polls/issues/new?template=fairness.yml).
+- **Design the defenses.** The open questions are written down in [FAIRNESS.md](FAIRNESS.md) and argued in [Discussions](https://github.com/pollreal/polls/discussions) — for example [how to keep it fair](https://github.com/pollreal/polls/discussions/1) and [how to check a carrier line type without Twilio](https://github.com/pollreal/polls/discussions/3).
+- **Bring the fights.** Vim vs Emacs, Postgres vs MySQL, PS5 vs Switch — [suggest a matchup](https://github.com/pollreal/polls/issues/new?template=matchup.yml) your community would actually argue about.
+- **Show the bar.** Made a tool? Put its live badge in your README (see below) and let real humans settle it.
+
+**Open development.** The service code itself is moving into the open so you can send pull requests; the first public commit will be announced in [Discussions](https://github.com/pollreal/polls/discussions). Until then, issues and discussions here are where the work happens — and every accepted idea ships to the live site.
 
 ## Polls
 
@@ -42,7 +54,7 @@ Pollreal is only useful if its results are hard to fake. [FAIRNESS.md](FAIRNESS.
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Perplexity Comet vs The Browser Company Dia vs Google Chrome](https://pollreal.com/v/fv3t6wa3/comet-vs-dia-vs-chrome?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Perplexity Comet vs The Browser Company Dia vs Google Chrome](https://pollreal.com/badge/fv3t6wa3.svg)](https://pollreal.com/v/fv3t6wa3/comet-vs-dia-vs-chrome?via=embed) |
+| [Perplexity Comet vs The Browser Company Dia vs Google Chrome](https://pollreal.com/v/fv3t6wa3/comet-vs-dia-vs-chrome?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Perplexity Comet vs The Browser Company Dia vs Google Chrome](https://pollreal.com/badge/fv3t6wa3.svg)](https://pollreal.com/v/fv3t6wa3/comet-vs-dia-vs-chrome?via=embed) |
 
 ### Chatbots & assistants
 
@@ -66,7 +78,7 @@ Pollreal is only useful if its results are hard to fake. [FAIRNESS.md](FAIRNESS.
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Anysphere Cursor vs GitHub Copilot vs Cognition Devin Desktop vs Zed Industries Zed](https://pollreal.com/v/7b5zxnaq/cursor-vs-copilot-vs-devin-desktop-vs-zed?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Anysphere Cursor vs GitHub Copilot vs Cognition Devin Desktop vs Zed Industries Zed](https://pollreal.com/badge/7b5zxnaq.svg)](https://pollreal.com/v/7b5zxnaq/cursor-vs-copilot-vs-devin-desktop-vs-zed?via=embed) |
+| [Anysphere Cursor vs GitHub Copilot vs Cognition Devin Desktop vs Zed Industries Zed](https://pollreal.com/v/7b5zxnaq/cursor-vs-copilot-vs-devin-desktop-vs-zed?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Anysphere Cursor vs GitHub Copilot vs Cognition Devin Desktop vs Zed Industries Zed](https://pollreal.com/badge/7b5zxnaq.svg)](https://pollreal.com/v/7b5zxnaq/cursor-vs-copilot-vs-devin-desktop-vs-zed?via=embed) |
 | [Anthropic Claude Code vs OpenAI Codex vs Google Gemini CLI](https://pollreal.com/v/6w2dhzar/claude-code-vs-codex-vs-gemini-cli?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Anthropic Claude Code vs OpenAI Codex vs Google Gemini CLI](https://pollreal.com/badge/6w2dhzar.svg)](https://pollreal.com/v/6w2dhzar/claude-code-vs-codex-vs-gemini-cli?via=embed) |
 
 ### Consoles & gaming gear
@@ -160,4 +172,4 @@ Every poll has a badge that updates by itself. Add `?for=N` to speak for candida
 While a poll is open its split is shown only to people who voted, so the badge says "voting"; the numbers appear when it closes.
 
 ---
-Updated 2026-11-04 11:02 UTC from https://pollreal.com/api/public/polls
+Updated 2026-11-04 16:35 UTC from https://pollreal.com/api/public/polls
