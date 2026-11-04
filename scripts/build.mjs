@@ -86,7 +86,7 @@ lines.push('- **Design the defenses.** The open questions are written down in [F
 lines.push('- **Bring the fights.** Vim vs Emacs, Postgres vs MySQL, PS5 vs Switch — [suggest a matchup](https://github.com/pollreal/polls/issues/new?template=matchup.yml) your community would actually argue about.')
 lines.push('- **Show the bar.** Made a tool? Put its live badge in your README (see below) and let real humans settle it.')
 lines.push('')
-lines.push('**Open development.** The service code itself is moving into the open so you can send pull requests; the first public commit will be announced in [Discussions](https://github.com/pollreal/polls/discussions). Until then, issues and discussions here are where the work happens — and every accepted idea ships to the live site.')
+lines.push('**Open development.** The service code is open: [pollreal/pollreal](https://github.com/pollreal/pollreal) (AGPL-3.0). Read it, find the holes, send pull requests — every accepted change ships to pollreal.com. Ideas and open questions stay here in [Discussions](https://github.com/pollreal/polls/discussions).')
 lines.push('')
 lines.push('## Polls')
 lines.push('')
