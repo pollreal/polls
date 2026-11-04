@@ -48,7 +48,7 @@ Pollreal is only useful if its results are hard to fake. [FAIRNESS.md](FAIRNESS.
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [OpenAI ChatGPT vs Anthropic Claude vs Google Gemini vs xAI Grok](https://pollreal.com/v/h9tushbq/chatgpt-vs-claude-vs-gemini-vs-grok?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: OpenAI ChatGPT vs Anthropic Claude vs Google Gemini vs xAI Grok](https://pollreal.com/badge/h9tushbq.svg)](https://pollreal.com/v/h9tushbq/chatgpt-vs-claude-vs-gemini-vs-grok?via=embed) |
+| [OpenAI ChatGPT vs Anthropic Claude vs Google Gemini vs xAI Grok](https://pollreal.com/v/h9tushbq/chatgpt-vs-claude-vs-gemini-vs-grok?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: OpenAI ChatGPT vs Anthropic Claude vs Google Gemini vs xAI Grok](https://pollreal.com/badge/h9tushbq.svg)](https://pollreal.com/v/h9tushbq/chatgpt-vs-claude-vs-gemini-vs-grok?via=embed) |
 
 ### Cloud & hosting
 
@@ -67,13 +67,13 @@ Pollreal is only useful if its results are hard to fake. [FAIRNESS.md](FAIRNESS.
 | Poll | Status | Live badge |
 |---|---|---|
 | [Anysphere Cursor vs GitHub Copilot vs Cognition Devin Desktop vs Zed Industries Zed](https://pollreal.com/v/7b5zxnaq/cursor-vs-copilot-vs-devin-desktop-vs-zed?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Anysphere Cursor vs GitHub Copilot vs Cognition Devin Desktop vs Zed Industries Zed](https://pollreal.com/badge/7b5zxnaq.svg)](https://pollreal.com/v/7b5zxnaq/cursor-vs-copilot-vs-devin-desktop-vs-zed?via=embed) |
-| [Anthropic Claude Code vs OpenAI Codex vs Google Gemini CLI](https://pollreal.com/v/6w2dhzar/claude-code-vs-codex-vs-gemini-cli?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Anthropic Claude Code vs OpenAI Codex vs Google Gemini CLI](https://pollreal.com/badge/6w2dhzar.svg)](https://pollreal.com/v/6w2dhzar/claude-code-vs-codex-vs-gemini-cli?via=embed) |
+| [Anthropic Claude Code vs OpenAI Codex vs Google Gemini CLI](https://pollreal.com/v/6w2dhzar/claude-code-vs-codex-vs-gemini-cli?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Anthropic Claude Code vs OpenAI Codex vs Google Gemini CLI](https://pollreal.com/badge/6w2dhzar.svg)](https://pollreal.com/v/6w2dhzar/claude-code-vs-codex-vs-gemini-cli?via=embed) |
 
 ### Consoles & gaming gear
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Sony PlayStation 5 vs Microsoft Xbox Series X\|S vs Nintendo Switch 2](https://pollreal.com/v/buva9ard/playstation-5-vs-xbox-series-x-s-vs-switch-2?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Sony PlayStation 5 vs Microsoft Xbox Series X\|S vs Nintendo Switch 2](https://pollreal.com/badge/buva9ard.svg)](https://pollreal.com/v/buva9ard/playstation-5-vs-xbox-series-x-s-vs-switch-2?via=embed) |
+| [Sony PlayStation 5 vs Microsoft Xbox Series X\|S vs Nintendo Switch 2](https://pollreal.com/v/buva9ard/playstation-5-vs-xbox-series-x-s-vs-switch-2?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Sony PlayStation 5 vs Microsoft Xbox Series X\|S vs Nintendo Switch 2](https://pollreal.com/badge/buva9ard.svg)](https://pollreal.com/v/buva9ard/playstation-5-vs-xbox-series-x-s-vs-switch-2?via=embed) |
 
 ### Databases
 
@@ -104,13 +104,13 @@ Pollreal is only useful if its results are hard to fake. [FAIRNESS.md](FAIRNESS.
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Apple macOS vs Microsoft Windows 11 vs Canonical Ubuntu](https://pollreal.com/v/x9sx6wxw/macos-vs-windows-11-vs-ubuntu?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Apple macOS vs Microsoft Windows 11 vs Canonical Ubuntu](https://pollreal.com/badge/x9sx6wxw.svg)](https://pollreal.com/v/x9sx6wxw/macos-vs-windows-11-vs-ubuntu?via=embed) |
+| [Apple macOS vs Microsoft Windows 11 vs Canonical Ubuntu](https://pollreal.com/v/x9sx6wxw/macos-vs-windows-11-vs-ubuntu?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Apple macOS vs Microsoft Windows 11 vs Canonical Ubuntu](https://pollreal.com/badge/x9sx6wxw.svg)](https://pollreal.com/v/x9sx6wxw/macos-vs-windows-11-vs-ubuntu?via=embed) |
 
 ### Phones & tablets
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Apple iPhone vs Google Pixel vs Samsung Galaxy S](https://pollreal.com/v/teggd3cc/iphone-vs-pixel-vs-galaxy-s?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Apple iPhone vs Google Pixel vs Samsung Galaxy S](https://pollreal.com/badge/teggd3cc.svg)](https://pollreal.com/v/teggd3cc/iphone-vs-pixel-vs-galaxy-s?via=embed) |
+| [Apple iPhone vs Google Pixel vs Samsung Galaxy S](https://pollreal.com/v/teggd3cc/iphone-vs-pixel-vs-galaxy-s?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Apple iPhone vs Google Pixel vs Samsung Galaxy S](https://pollreal.com/badge/teggd3cc.svg)](https://pollreal.com/v/teggd3cc/iphone-vs-pixel-vs-galaxy-s?via=embed) |
 
 ### Programming languages
 
@@ -134,7 +134,7 @@ Pollreal is only useful if its results are hard to fake. [FAIRNESS.md](FAIRNESS.
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Google Veo vs Runway Gen-4.5 vs Kling AI Kling vs Luma AI Ray3](https://pollreal.com/v/gx729c4z/veo-vs-gen-4-5-vs-kling-vs-ray3?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Google Veo vs Runway Gen-4.5 vs Kling AI Kling vs Luma AI Ray3](https://pollreal.com/badge/gx729c4z.svg)](https://pollreal.com/v/gx729c4z/veo-vs-gen-4-5-vs-kling-vs-ray3?via=embed) |
+| [Google Veo vs Runway Gen-4.5 vs Kling AI Kling vs Luma AI Ray3](https://pollreal.com/v/gx729c4z/veo-vs-gen-4-5-vs-kling-vs-ray3?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Google Veo vs Runway Gen-4.5 vs Kling AI Kling vs Luma AI Ray3](https://pollreal.com/badge/gx729c4z.svg)](https://pollreal.com/v/gx729c4z/veo-vs-gen-4-5-vs-kling-vs-ray3?via=embed) |
 
 ### Voice & music
 
@@ -146,7 +146,7 @@ Pollreal is only useful if its results are hard to fake. [FAIRNESS.md](FAIRNESS.
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Google Chrome vs Apple Safari vs Mozilla Firefox vs Brave](https://pollreal.com/v/ga3hxy8x/chrome-vs-safari-vs-firefox-vs-brave?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Google Chrome vs Apple Safari vs Mozilla Firefox vs Brave](https://pollreal.com/badge/ga3hxy8x.svg)](https://pollreal.com/v/ga3hxy8x/chrome-vs-safari-vs-firefox-vs-brave?via=embed) |
+| [Google Chrome vs Apple Safari vs Mozilla Firefox vs Brave](https://pollreal.com/v/ga3hxy8x/chrome-vs-safari-vs-firefox-vs-brave?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Google Chrome vs Apple Safari vs Mozilla Firefox vs Brave](https://pollreal.com/badge/ga3hxy8x.svg)](https://pollreal.com/v/ga3hxy8x/chrome-vs-safari-vs-firefox-vs-brave?via=embed) |
 
 ## Put a badge in your README
 
@@ -160,4 +160,4 @@ Every poll has a badge that updates by itself. Add `?for=N` to speak for candida
 While a poll is open its split is shown only to people who voted, so the badge says "voting"; the numbers appear when it closes.
 
 ---
-Updated 2026-11-03 20:48 UTC from https://pollreal.com/api/public/polls
+Updated 2026-11-04 11:02 UTC from https://pollreal.com/api/public/polls
