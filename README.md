@@ -35,7 +35,17 @@ _Illustrative numbers, not real results._ While a poll is open the split is visi
 
 Scores use the Bradley–Terry model on every verified vote (the method behind the LMSYS Chatbot Arena), with 95% ranges; products are ranked from 30 votes against 3 different rivals. Full method: https://pollreal.com/rank
 
-_Rankings appear once polls have closed._
+| Category | Ranked products | |
+|---|---:|---|
+| Image generation | 0 of 4 | [Ranking](https://pollreal.com/rank/ai-image) |
+| Coding | 0 of 7 | [Ranking](https://pollreal.com/rank/ai-coding) |
+| Open source & dev tools | 0 of 4 | [Ranking](https://pollreal.com/rank/ai-opensource) |
+| AI apps & devices | 0 of 3 | [Ranking](https://pollreal.com/rank/ai-apps) |
+| Search & research | 0 of 3 | [Ranking](https://pollreal.com/rank/ai-search) |
+| Video generation | 0 of 4 | [Ranking](https://pollreal.com/rank/ai-video) |
+| Chatbots & assistants | 0 of 4 | [Ranking](https://pollreal.com/rank/ai-assistants) |
+| Voice & music | 0 of 3 | [Ranking](https://pollreal.com/rank/ai-audio) |
+| Phones & tablets | 0 of 3 | [Ranking](https://pollreal.com/rank/phone) |
 
 ## Build it with us
 
@@ -54,111 +64,171 @@ A poll is only worth reading if nobody — no bot, no agent, no click farm — c
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Perplexity Comet vs The Browser Company Dia vs Google Chrome](https://pollreal.com/v/fv3t6wa3/comet-vs-dia-vs-chrome?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Perplexity Comet vs The Browser Company Dia vs Google Chrome](https://pollreal.com/badge/fv3t6wa3.svg)](https://pollreal.com/v/fv3t6wa3/comet-vs-dia-vs-chrome?via=embed) |
+| [Perplexity Comet vs The Browser Company Dia vs Google Chrome](https://pollreal.com/v/fv3t6wa3/comet-vs-dia-vs-chrome?via=embed) | Final · **Google Chrome** 100% · 1 votes | [![Pollreal: Perplexity Comet vs The Browser Company Dia vs Google Chrome](https://pollreal.com/badge/fv3t6wa3.svg)](https://pollreal.com/v/fv3t6wa3/comet-vs-dia-vs-chrome?via=embed) |
+
+### Cameras & drones
+
+| Poll | Status | Live badge |
+|---|---|---|
+| [DJI Osmo Action 5 Pro vs GoPro HERO vs Insta360 X5](https://pollreal.com/v/apc32qwk/osmo-action-5-pro-vs-hero-vs-x5?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: DJI Osmo Action 5 Pro vs GoPro HERO vs Insta360 X5](https://pollreal.com/badge/apc32qwk.svg)](https://pollreal.com/v/apc32qwk/osmo-action-5-pro-vs-hero-vs-x5?via=embed) |
+
+### Car & accessories
+
+| Poll | Status | Live badge |
+|---|---|---|
+| [Tesla Model 3 vs BYD Seal vs Hyundai IONIQ 6](https://pollreal.com/v/d7b6jgus/model-3-vs-seal-vs-ioniq-6?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Tesla Model 3 vs BYD Seal vs Hyundai IONIQ 6](https://pollreal.com/badge/d7b6jgus.svg)](https://pollreal.com/v/d7b6jgus/model-3-vs-seal-vs-ioniq-6?via=embed) |
 
 ### Chatbots & assistants
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [OpenAI ChatGPT vs Anthropic Claude vs Google Gemini vs xAI Grok](https://pollreal.com/v/h9tushbq/chatgpt-vs-claude-vs-gemini-vs-grok?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: OpenAI ChatGPT vs Anthropic Claude vs Google Gemini vs xAI Grok](https://pollreal.com/badge/h9tushbq.svg)](https://pollreal.com/v/h9tushbq/chatgpt-vs-claude-vs-gemini-vs-grok?via=embed) |
+| [OpenAI ChatGPT vs Anthropic Claude vs Google Gemini vs xAI Grok](https://pollreal.com/v/h9tushbq/chatgpt-vs-claude-vs-gemini-vs-grok?via=embed) | Final · **OpenAI ChatGPT** 100% · 1 votes | [![Pollreal: OpenAI ChatGPT vs Anthropic Claude vs Google Gemini vs xAI Grok](https://pollreal.com/badge/h9tushbq.svg)](https://pollreal.com/v/h9tushbq/chatgpt-vs-claude-vs-gemini-vs-grok?via=embed) |
 
 ### Cloud & hosting
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Amazon AWS vs Microsoft Azure vs Google Cloud vs Hetzner Cloud](https://pollreal.com/v/735gd7jx/aws-vs-azure-vs-google-cloud-vs-hetzner-cloud?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Amazon AWS vs Microsoft Azure vs Google Cloud vs Hetzner Cloud](https://pollreal.com/badge/735gd7jx.svg)](https://pollreal.com/v/735gd7jx/aws-vs-azure-vs-google-cloud-vs-hetzner-cloud?via=embed) |
+| [Amazon AWS vs Microsoft Azure vs Google Cloud vs Hetzner Cloud](https://pollreal.com/v/735gd7jx/aws-vs-azure-vs-google-cloud-vs-hetzner-cloud?via=embed) | Final · no votes | [![Pollreal: Amazon AWS vs Microsoft Azure vs Google Cloud vs Hetzner Cloud](https://pollreal.com/badge/735gd7jx.svg)](https://pollreal.com/v/735gd7jx/aws-vs-azure-vs-google-cloud-vs-hetzner-cloud?via=embed) |
 
 ### Code editors & IDEs
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Microsoft VS Code vs Vim vs Neovim vs GNU Emacs](https://pollreal.com/v/ttqq3z7b/vs-code-vs-vim-vs-neovim-vs-emacs?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Microsoft VS Code vs Vim vs Neovim vs GNU Emacs](https://pollreal.com/badge/ttqq3z7b.svg)](https://pollreal.com/v/ttqq3z7b/vs-code-vs-vim-vs-neovim-vs-emacs?via=embed) |
+| [Microsoft VS Code vs Vim vs Neovim vs GNU Emacs](https://pollreal.com/v/ttqq3z7b/vs-code-vs-vim-vs-neovim-vs-emacs?via=embed) | Final · no votes | [![Pollreal: Microsoft VS Code vs Vim vs Neovim vs GNU Emacs](https://pollreal.com/badge/ttqq3z7b.svg)](https://pollreal.com/v/ttqq3z7b/vs-code-vs-vim-vs-neovim-vs-emacs?via=embed) |
 
 ### Coding
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Anysphere Cursor vs GitHub Copilot vs Cognition Devin Desktop vs Zed Industries Zed](https://pollreal.com/v/7b5zxnaq/cursor-vs-copilot-vs-devin-desktop-vs-zed?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Anysphere Cursor vs GitHub Copilot vs Cognition Devin Desktop vs Zed Industries Zed](https://pollreal.com/badge/7b5zxnaq.svg)](https://pollreal.com/v/7b5zxnaq/cursor-vs-copilot-vs-devin-desktop-vs-zed?via=embed) |
-| [Anthropic Claude Code vs OpenAI Codex vs Google Gemini CLI](https://pollreal.com/v/6w2dhzar/claude-code-vs-codex-vs-gemini-cli?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Anthropic Claude Code vs OpenAI Codex vs Google Gemini CLI](https://pollreal.com/badge/6w2dhzar.svg)](https://pollreal.com/v/6w2dhzar/claude-code-vs-codex-vs-gemini-cli?via=embed) |
+| [Anysphere Cursor vs GitHub Copilot vs Cognition Devin Desktop vs Zed Industries Zed](https://pollreal.com/v/7b5zxnaq/cursor-vs-copilot-vs-devin-desktop-vs-zed?via=embed) | Final · **GitHub Copilot** 100% · 1 votes | [![Pollreal: Anysphere Cursor vs GitHub Copilot vs Cognition Devin Desktop vs Zed Industries Zed](https://pollreal.com/badge/7b5zxnaq.svg)](https://pollreal.com/v/7b5zxnaq/cursor-vs-copilot-vs-devin-desktop-vs-zed?via=embed) |
+| [Anthropic Claude Code vs OpenAI Codex vs Google Gemini CLI](https://pollreal.com/v/6w2dhzar/claude-code-vs-codex-vs-gemini-cli?via=embed) | Final · **Anthropic Claude Code** 100% · 1 votes | [![Pollreal: Anthropic Claude Code vs OpenAI Codex vs Google Gemini CLI](https://pollreal.com/badge/6w2dhzar.svg)](https://pollreal.com/v/6w2dhzar/claude-code-vs-codex-vs-gemini-cli?via=embed) |
+
+### Coffee & drinks
+
+| Poll | Status | Live badge |
+|---|---|---|
+| [The Coca-Cola Company Coca-Cola vs PepsiCo Pepsi](https://pollreal.com/v/7snzunsb/coca-cola-vs-pepsi?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: The Coca-Cola Company Coca-Cola vs PepsiCo Pepsi](https://pollreal.com/badge/7snzunsb.svg)](https://pollreal.com/v/7snzunsb/coca-cola-vs-pepsi?via=embed) |
 
 ### Consoles & gaming gear
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Sony PlayStation 5 vs Microsoft Xbox Series X\|S vs Nintendo Switch 2](https://pollreal.com/v/buva9ard/playstation-5-vs-xbox-series-x-s-vs-switch-2?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Sony PlayStation 5 vs Microsoft Xbox Series X\|S vs Nintendo Switch 2](https://pollreal.com/badge/buva9ard.svg)](https://pollreal.com/v/buva9ard/playstation-5-vs-xbox-series-x-s-vs-switch-2?via=embed) |
+| [Sony PlayStation 5 vs Microsoft Xbox Series X\|S vs Nintendo Switch 2](https://pollreal.com/v/buva9ard/playstation-5-vs-xbox-series-x-s-vs-switch-2?via=embed) | Final · **Sony PlayStation 5** 100% · 1 votes | [![Pollreal: Sony PlayStation 5 vs Microsoft Xbox Series X\|S vs Nintendo Switch 2](https://pollreal.com/badge/buva9ard.svg)](https://pollreal.com/v/buva9ard/playstation-5-vs-xbox-series-x-s-vs-switch-2?via=embed) |
 
 ### Databases
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [PostgreSQL vs Oracle MySQL vs MongoDB vs SQLite](https://pollreal.com/v/cgguvcxp/postgresql-vs-mysql-vs-mongodb-vs-sqlite?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: PostgreSQL vs Oracle MySQL vs MongoDB vs SQLite](https://pollreal.com/badge/cgguvcxp.svg)](https://pollreal.com/v/cgguvcxp/postgresql-vs-mysql-vs-mongodb-vs-sqlite?via=embed) |
+| [PostgreSQL vs Oracle MySQL vs MongoDB vs SQLite](https://pollreal.com/v/cgguvcxp/postgresql-vs-mysql-vs-mongodb-vs-sqlite?via=embed) | Final · no votes | [![Pollreal: PostgreSQL vs Oracle MySQL vs MongoDB vs SQLite](https://pollreal.com/badge/cgguvcxp.svg)](https://pollreal.com/v/cgguvcxp/postgresql-vs-mysql-vs-mongodb-vs-sqlite?via=embed) |
+
+### Fashion
+
+| Poll | Status | Live badge |
+|---|---|---|
+| [Nike Pegasus vs adidas Ultraboost vs New Balance Fresh Foam X 1080 vs ASICS GEL-NIMBUS](https://pollreal.com/v/e63kcju7/pegasus-vs-ultraboost-vs-fresh-foam-x-1080-vs-gel-nimbus?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Nike Pegasus vs adidas Ultraboost vs New Balance Fresh Foam X 1080 vs ASICS GEL-NIMBUS](https://pollreal.com/badge/e63kcju7.svg)](https://pollreal.com/v/e63kcju7/pegasus-vs-ultraboost-vs-fresh-foam-x-1080-vs-gel-nimbus?via=embed) |
 
 ### Frameworks & libraries
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Meta React vs Vue.js Vue vs Svelte vs Google Angular](https://pollreal.com/v/d9v5deen/react-vs-vue-vs-svelte-vs-angular?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Meta React vs Vue.js Vue vs Svelte vs Google Angular](https://pollreal.com/badge/d9v5deen.svg)](https://pollreal.com/v/d9v5deen/react-vs-vue-vs-svelte-vs-angular?via=embed) |
-| [OpenJS Foundation Node.js vs Oven Bun vs Deno](https://pollreal.com/v/mfm9hmvm/node-js-vs-bun-vs-deno?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: OpenJS Foundation Node.js vs Oven Bun vs Deno](https://pollreal.com/badge/mfm9hmvm.svg)](https://pollreal.com/v/mfm9hmvm/node-js-vs-bun-vs-deno?via=embed) |
+| [Meta React vs Vue.js Vue vs Svelte vs Google Angular](https://pollreal.com/v/d9v5deen/react-vs-vue-vs-svelte-vs-angular?via=embed) | Final · no votes | [![Pollreal: Meta React vs Vue.js Vue vs Svelte vs Google Angular](https://pollreal.com/badge/d9v5deen.svg)](https://pollreal.com/v/d9v5deen/react-vs-vue-vs-svelte-vs-angular?via=embed) |
+| [OpenJS Foundation Node.js vs Oven Bun vs Deno](https://pollreal.com/v/mfm9hmvm/node-js-vs-bun-vs-deno?via=embed) | Final · no votes | [![Pollreal: OpenJS Foundation Node.js vs Oven Bun vs Deno](https://pollreal.com/badge/mfm9hmvm.svg)](https://pollreal.com/v/mfm9hmvm/node-js-vs-bun-vs-deno?via=embed) |
 
 ### Image generation
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Midjourney vs Black Forest Labs FLUX vs OpenAI GPT Image vs Google Nano Banana](https://pollreal.com/v/682jbuxx/midjourney-vs-flux-vs-gpt-image-vs-nano-banana?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Midjourney vs Black Forest Labs FLUX vs OpenAI GPT Image vs Google Nano Banana](https://pollreal.com/badge/682jbuxx.svg)](https://pollreal.com/v/682jbuxx/midjourney-vs-flux-vs-gpt-image-vs-nano-banana?via=embed) |
+| [Midjourney vs Black Forest Labs FLUX vs OpenAI GPT Image vs Google Nano Banana](https://pollreal.com/v/682jbuxx/midjourney-vs-flux-vs-gpt-image-vs-nano-banana?via=embed) | Final · no votes | [![Pollreal: Midjourney vs Black Forest Labs FLUX vs OpenAI GPT Image vs Google Nano Banana](https://pollreal.com/badge/682jbuxx.svg)](https://pollreal.com/v/682jbuxx/midjourney-vs-flux-vs-gpt-image-vs-nano-banana?via=embed) |
+
+### Messaging & team chat
+
+| Poll | Status | Live badge |
+|---|---|---|
+| [Slack vs Discord vs Microsoft Teams](https://pollreal.com/v/xt92qz94/slack-vs-discord-vs-teams?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Slack vs Discord vs Microsoft Teams](https://pollreal.com/badge/xt92qz94.svg)](https://pollreal.com/v/xt92qz94/slack-vs-discord-vs-teams?via=embed) |
+
+### Notes & docs
+
+| Poll | Status | Live badge |
+|---|---|---|
+| [Notion vs Obsidian vs Apple Notes](https://pollreal.com/v/2vqpe6fs/notion-vs-obsidian-vs-notes?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Notion vs Obsidian vs Apple Notes](https://pollreal.com/badge/2vqpe6fs.svg)](https://pollreal.com/v/2vqpe6fs/notion-vs-obsidian-vs-notes?via=embed) |
 
 ### Open source & dev tools
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Meta Llama vs DeepSeek vs Alibaba Cloud Qwen vs Mistral AI Mistral](https://pollreal.com/v/dscvwzbd/llama-vs-deepseek-vs-qwen-vs-mistral?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Meta Llama vs DeepSeek vs Alibaba Cloud Qwen vs Mistral AI Mistral](https://pollreal.com/badge/dscvwzbd.svg)](https://pollreal.com/v/dscvwzbd/llama-vs-deepseek-vs-qwen-vs-mistral?via=embed) |
+| [Meta Llama vs DeepSeek vs Alibaba Cloud Qwen vs Mistral AI Mistral](https://pollreal.com/v/dscvwzbd/llama-vs-deepseek-vs-qwen-vs-mistral?via=embed) | Final · no votes | [![Pollreal: Meta Llama vs DeepSeek vs Alibaba Cloud Qwen vs Mistral AI Mistral](https://pollreal.com/badge/dscvwzbd.svg)](https://pollreal.com/v/dscvwzbd/llama-vs-deepseek-vs-qwen-vs-mistral?via=embed) |
 
 ### Operating systems
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Apple macOS vs Microsoft Windows 11 vs Canonical Ubuntu](https://pollreal.com/v/x9sx6wxw/macos-vs-windows-11-vs-ubuntu?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Apple macOS vs Microsoft Windows 11 vs Canonical Ubuntu](https://pollreal.com/badge/x9sx6wxw.svg)](https://pollreal.com/v/x9sx6wxw/macos-vs-windows-11-vs-ubuntu?via=embed) |
+| [Apple macOS vs Microsoft Windows 11 vs Canonical Ubuntu](https://pollreal.com/v/x9sx6wxw/macos-vs-windows-11-vs-ubuntu?via=embed) | Final · **Canonical Ubuntu** 100% · 1 votes | [![Pollreal: Apple macOS vs Microsoft Windows 11 vs Canonical Ubuntu](https://pollreal.com/badge/x9sx6wxw.svg)](https://pollreal.com/v/x9sx6wxw/macos-vs-windows-11-vs-ubuntu?via=embed) |
+
+### PCs & laptops
+
+| Poll | Status | Live badge |
+|---|---|---|
+| [NVIDIA GeForce RTX 50 Series vs AMD Radeon RX 9000 Series vs Intel Arc](https://pollreal.com/v/9xr9wps5/geforce-rtx-50-series-vs-radeon-rx-9000-series-vs-arc?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: NVIDIA GeForce RTX 50 Series vs AMD Radeon RX 9000 Series vs Intel Arc](https://pollreal.com/badge/9xr9wps5.svg)](https://pollreal.com/v/9xr9wps5/geforce-rtx-50-series-vs-radeon-rx-9000-series-vs-arc?via=embed) |
 
 ### Phones & tablets
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Apple iPhone vs Google Pixel vs Samsung Galaxy S](https://pollreal.com/v/teggd3cc/iphone-vs-pixel-vs-galaxy-s?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Apple iPhone vs Google Pixel vs Samsung Galaxy S](https://pollreal.com/badge/teggd3cc.svg)](https://pollreal.com/v/teggd3cc/iphone-vs-pixel-vs-galaxy-s?via=embed) |
+| [Apple iPhone vs Google Pixel vs Samsung Galaxy S](https://pollreal.com/v/teggd3cc/iphone-vs-pixel-vs-galaxy-s?via=embed) | Final · **Samsung Galaxy S** 100% · 1 votes | [![Pollreal: Apple iPhone vs Google Pixel vs Samsung Galaxy S](https://pollreal.com/badge/teggd3cc.svg)](https://pollreal.com/v/teggd3cc/iphone-vs-pixel-vs-galaxy-s?via=embed) |
+
+### Printers & 3D printers
+
+| Poll | Status | Live badge |
+|---|---|---|
+| [Bambu Lab P1S vs Prusa Research CORE One vs Creality K2 Plus](https://pollreal.com/v/5bbbfsvb/p1s-vs-core-one-vs-k2-plus?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Bambu Lab P1S vs Prusa Research CORE One vs Creality K2 Plus](https://pollreal.com/badge/5bbbfsvb.svg)](https://pollreal.com/v/5bbbfsvb/p1s-vs-core-one-vs-k2-plus?via=embed) |
 
 ### Programming languages
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Python Software Foundation Python vs Microsoft TypeScript vs Rust Foundation Rust vs Google Go](https://pollreal.com/v/mrvq9ezq/python-vs-typescript-vs-rust-vs-go?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Python Software Foundation Python vs Microsoft TypeScript vs Rust Foundation Rust vs Google Go](https://pollreal.com/badge/mrvq9ezq.svg)](https://pollreal.com/v/mrvq9ezq/python-vs-typescript-vs-rust-vs-go?via=embed) |
+| [Python Software Foundation Python vs Microsoft TypeScript vs Rust Foundation Rust vs Google Go](https://pollreal.com/v/mrvq9ezq/python-vs-typescript-vs-rust-vs-go?via=embed) | Final · no votes | [![Pollreal: Python Software Foundation Python vs Microsoft TypeScript vs Rust Foundation Rust vs Google Go](https://pollreal.com/badge/mrvq9ezq.svg)](https://pollreal.com/v/mrvq9ezq/python-vs-typescript-vs-rust-vs-go?via=embed) |
 
 ### Search & research
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Perplexity vs Google AI Mode vs OpenAI ChatGPT](https://pollreal.com/v/gewsf95e/perplexity-vs-ai-mode-vs-chatgpt?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Perplexity vs Google AI Mode vs OpenAI ChatGPT](https://pollreal.com/badge/gewsf95e.svg)](https://pollreal.com/v/gewsf95e/perplexity-vs-ai-mode-vs-chatgpt?via=embed) |
+| [Perplexity vs Google AI Mode vs OpenAI ChatGPT](https://pollreal.com/v/gewsf95e/perplexity-vs-ai-mode-vs-chatgpt?via=embed) | Final · no votes | [![Pollreal: Perplexity vs Google AI Mode vs OpenAI ChatGPT](https://pollreal.com/badge/gewsf95e.svg)](https://pollreal.com/v/gewsf95e/perplexity-vs-ai-mode-vs-chatgpt?via=embed) |
+
+### Smartwatches & wearables
+
+| Poll | Status | Live badge |
+|---|---|---|
+| [Apple Watch vs Samsung Galaxy Watch vs Garmin Forerunner vs Google Pixel Watch](https://pollreal.com/v/gykhj7bk/apple-watch-vs-galaxy-watch-vs-forerunner-vs-pixel-watch?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Apple Watch vs Samsung Galaxy Watch vs Garmin Forerunner vs Google Pixel Watch](https://pollreal.com/badge/gykhj7bk.svg)](https://pollreal.com/v/gykhj7bk/apple-watch-vs-galaxy-watch-vs-forerunner-vs-pixel-watch?via=embed) |
+
+### Streaming services
+
+| Poll | Status | Live badge |
+|---|---|---|
+| [Spotify Premium vs Apple Music vs Google YouTube Music](https://pollreal.com/v/2cx4zchf/spotify-premium-vs-apple-music-vs-youtube-music?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Spotify Premium vs Apple Music vs Google YouTube Music](https://pollreal.com/badge/2cx4zchf.svg)](https://pollreal.com/v/2cx4zchf/spotify-premium-vs-apple-music-vs-youtube-music?via=embed) |
 
 ### Terminals & shells
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Ghostty vs Warp vs iTerm2 vs WezTerm](https://pollreal.com/v/9z3pah9r/ghostty-vs-warp-vs-iterm2-vs-wezterm?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Ghostty vs Warp vs iTerm2 vs WezTerm](https://pollreal.com/badge/9z3pah9r.svg)](https://pollreal.com/v/9z3pah9r/ghostty-vs-warp-vs-iterm2-vs-wezterm?via=embed) |
+| [Ghostty vs Warp vs iTerm2 vs WezTerm](https://pollreal.com/v/9z3pah9r/ghostty-vs-warp-vs-iterm2-vs-wezterm?via=embed) | Final · no votes | [![Pollreal: Ghostty vs Warp vs iTerm2 vs WezTerm](https://pollreal.com/badge/9z3pah9r.svg)](https://pollreal.com/v/9z3pah9r/ghostty-vs-warp-vs-iterm2-vs-wezterm?via=embed) |
 
 ### Video generation
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Google Veo vs Runway Gen-4.5 vs Kling AI Kling vs Luma AI Ray3](https://pollreal.com/v/gx729c4z/veo-vs-gen-4-5-vs-kling-vs-ray3?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Google Veo vs Runway Gen-4.5 vs Kling AI Kling vs Luma AI Ray3](https://pollreal.com/badge/gx729c4z.svg)](https://pollreal.com/v/gx729c4z/veo-vs-gen-4-5-vs-kling-vs-ray3?via=embed) |
+| [Google Veo vs Runway Gen-4.5 vs Kling AI Kling vs Luma AI Ray3](https://pollreal.com/v/gx729c4z/veo-vs-gen-4-5-vs-kling-vs-ray3?via=embed) | Final · **Kling AI Kling** 100% · 1 votes | [![Pollreal: Google Veo vs Runway Gen-4.5 vs Kling AI Kling vs Luma AI Ray3](https://pollreal.com/badge/gx729c4z.svg)](https://pollreal.com/v/gx729c4z/veo-vs-gen-4-5-vs-kling-vs-ray3?via=embed) |
 
 ### Voice & music
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Suno vs Udio vs ElevenLabs ElevenMusic](https://pollreal.com/v/m2s4v26u/suno-vs-udio-vs-elevenmusic?via=embed) | Open until 2026-11-04 · 0 votes so far | [![Pollreal: Suno vs Udio vs ElevenLabs ElevenMusic](https://pollreal.com/badge/m2s4v26u.svg)](https://pollreal.com/v/m2s4v26u/suno-vs-udio-vs-elevenmusic?via=embed) |
+| [Suno vs Udio vs ElevenLabs ElevenMusic](https://pollreal.com/v/m2s4v26u/suno-vs-udio-vs-elevenmusic?via=embed) | Final · no votes | [![Pollreal: Suno vs Udio vs ElevenLabs ElevenMusic](https://pollreal.com/badge/m2s4v26u.svg)](https://pollreal.com/v/m2s4v26u/suno-vs-udio-vs-elevenmusic?via=embed) |
 
 ### Web browsers
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Google Chrome vs Apple Safari vs Mozilla Firefox vs Brave](https://pollreal.com/v/ga3hxy8x/chrome-vs-safari-vs-firefox-vs-brave?via=embed) | Open until 2026-11-04 · 1 votes so far | [![Pollreal: Google Chrome vs Apple Safari vs Mozilla Firefox vs Brave](https://pollreal.com/badge/ga3hxy8x.svg)](https://pollreal.com/v/ga3hxy8x/chrome-vs-safari-vs-firefox-vs-brave?via=embed) |
+| [Google Chrome vs Apple Safari vs Mozilla Firefox vs Brave](https://pollreal.com/v/ga3hxy8x/chrome-vs-safari-vs-firefox-vs-brave?via=embed) | Final · **Google Chrome** 100% · 1 votes | [![Pollreal: Google Chrome vs Apple Safari vs Mozilla Firefox vs Brave](https://pollreal.com/badge/ga3hxy8x.svg)](https://pollreal.com/v/ga3hxy8x/chrome-vs-safari-vs-firefox-vs-brave?via=embed) |
 
 ## Put a badge in your README
 
@@ -172,4 +242,4 @@ Every poll has a badge that updates by itself. Add `?for=N` to speak for candida
 While a poll is open its split is shown only to people who voted, so the badge says "voting"; the numbers appear when it closes.
 
 ---
-Updated 2026-11-04 16:35 UTC from https://pollreal.com/api/public/polls
+Updated 2026-11-05 09:03 UTC from https://pollreal.com/api/public/polls
