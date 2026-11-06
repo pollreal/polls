@@ -46,6 +46,15 @@ Scores use the Bradley–Terry model on every verified vote (the method behind t
 | Chatbots & assistants | 0 of 4 | [Ranking](https://pollreal.com/rank/ai-assistants) |
 | Voice & music | 0 of 3 | [Ranking](https://pollreal.com/rank/ai-audio) |
 | Phones & tablets | 0 of 3 | [Ranking](https://pollreal.com/rank/phone) |
+| Cloud & hosting | 0 of 4 | [Ranking](https://pollreal.com/rank/sw-cloud) |
+| Terminals & shells | 0 of 4 | [Ranking](https://pollreal.com/rank/sw-terminal) |
+| Consoles & gaming gear | 0 of 3 | [Ranking](https://pollreal.com/rank/gaming) |
+| Databases | 0 of 4 | [Ranking](https://pollreal.com/rank/sw-database) |
+| Frameworks & libraries | 0 of 7 | [Ranking](https://pollreal.com/rank/sw-framework) |
+| Web browsers | 0 of 4 | [Ranking](https://pollreal.com/rank/sw-browser) |
+| Programming languages | 0 of 4 | [Ranking](https://pollreal.com/rank/sw-language) |
+| Code editors & IDEs | 0 of 4 | [Ranking](https://pollreal.com/rank/sw-editor) |
+| Operating systems | 0 of 3 | [Ranking](https://pollreal.com/rank/sw-os) |
 
 ## Build it with us
 
@@ -70,13 +79,13 @@ A poll is only worth reading if nobody — no bot, no agent, no click farm — c
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [DJI Osmo Action 5 Pro vs GoPro HERO vs Insta360 X5](https://pollreal.com/v/apc32qwk/osmo-action-5-pro-vs-hero-vs-x5?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: DJI Osmo Action 5 Pro vs GoPro HERO vs Insta360 X5](https://pollreal.com/badge/apc32qwk.svg)](https://pollreal.com/v/apc32qwk/osmo-action-5-pro-vs-hero-vs-x5?via=embed) |
+| [DJI Osmo Action 5 Pro vs GoPro HERO vs Insta360 X5](https://pollreal.com/v/apc32qwk/osmo-action-5-pro-vs-hero-vs-x5?via=embed) | Final · no votes | [![Pollreal: DJI Osmo Action 5 Pro vs GoPro HERO vs Insta360 X5](https://pollreal.com/badge/apc32qwk.svg)](https://pollreal.com/v/apc32qwk/osmo-action-5-pro-vs-hero-vs-x5?via=embed) |
 
 ### Car & accessories
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Tesla Model 3 vs BYD Seal vs Hyundai IONIQ 6](https://pollreal.com/v/d7b6jgus/model-3-vs-seal-vs-ioniq-6?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Tesla Model 3 vs BYD Seal vs Hyundai IONIQ 6](https://pollreal.com/badge/d7b6jgus.svg)](https://pollreal.com/v/d7b6jgus/model-3-vs-seal-vs-ioniq-6?via=embed) |
+| [Tesla Model 3 vs BYD Seal vs Hyundai IONIQ 6](https://pollreal.com/v/d7b6jgus/model-3-vs-seal-vs-ioniq-6?via=embed) | Final · no votes | [![Pollreal: Tesla Model 3 vs BYD Seal vs Hyundai IONIQ 6](https://pollreal.com/badge/d7b6jgus.svg)](https://pollreal.com/v/d7b6jgus/model-3-vs-seal-vs-ioniq-6?via=embed) |
 
 ### Chatbots & assistants
 
@@ -107,7 +116,7 @@ A poll is only worth reading if nobody — no bot, no agent, no click farm — c
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [The Coca-Cola Company Coca-Cola vs PepsiCo Pepsi](https://pollreal.com/v/7snzunsb/coca-cola-vs-pepsi?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: The Coca-Cola Company Coca-Cola vs PepsiCo Pepsi](https://pollreal.com/badge/7snzunsb.svg)](https://pollreal.com/v/7snzunsb/coca-cola-vs-pepsi?via=embed) |
+| [The Coca-Cola Company Coca-Cola vs PepsiCo Pepsi](https://pollreal.com/v/7snzunsb/coca-cola-vs-pepsi?via=embed) | Final · no votes | [![Pollreal: The Coca-Cola Company Coca-Cola vs PepsiCo Pepsi](https://pollreal.com/badge/7snzunsb.svg)](https://pollreal.com/v/7snzunsb/coca-cola-vs-pepsi?via=embed) |
 
 ### Consoles & gaming gear
 
@@ -125,7 +134,7 @@ A poll is only worth reading if nobody — no bot, no agent, no click farm — c
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Nike Pegasus vs adidas Ultraboost vs New Balance Fresh Foam X 1080 vs ASICS GEL-NIMBUS](https://pollreal.com/v/e63kcju7/pegasus-vs-ultraboost-vs-fresh-foam-x-1080-vs-gel-nimbus?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Nike Pegasus vs adidas Ultraboost vs New Balance Fresh Foam X 1080 vs ASICS GEL-NIMBUS](https://pollreal.com/badge/e63kcju7.svg)](https://pollreal.com/v/e63kcju7/pegasus-vs-ultraboost-vs-fresh-foam-x-1080-vs-gel-nimbus?via=embed) |
+| [Nike Pegasus vs adidas Ultraboost vs New Balance Fresh Foam X 1080 vs ASICS GEL-NIMBUS](https://pollreal.com/v/e63kcju7/pegasus-vs-ultraboost-vs-fresh-foam-x-1080-vs-gel-nimbus?via=embed) | Final · no votes | [![Pollreal: Nike Pegasus vs adidas Ultraboost vs New Balance Fresh Foam X 1080 vs ASICS GEL-NIMBUS](https://pollreal.com/badge/e63kcju7.svg)](https://pollreal.com/v/e63kcju7/pegasus-vs-ultraboost-vs-fresh-foam-x-1080-vs-gel-nimbus?via=embed) |
 
 ### Frameworks & libraries
 
@@ -144,13 +153,13 @@ A poll is only worth reading if nobody — no bot, no agent, no click farm — c
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Slack vs Discord vs Microsoft Teams](https://pollreal.com/v/xt92qz94/slack-vs-discord-vs-teams?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Slack vs Discord vs Microsoft Teams](https://pollreal.com/badge/xt92qz94.svg)](https://pollreal.com/v/xt92qz94/slack-vs-discord-vs-teams?via=embed) |
+| [Slack vs Discord vs Microsoft Teams](https://pollreal.com/v/xt92qz94/slack-vs-discord-vs-teams?via=embed) | Final · no votes | [![Pollreal: Slack vs Discord vs Microsoft Teams](https://pollreal.com/badge/xt92qz94.svg)](https://pollreal.com/v/xt92qz94/slack-vs-discord-vs-teams?via=embed) |
 
 ### Notes & docs
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Notion vs Obsidian vs Apple Notes](https://pollreal.com/v/2vqpe6fs/notion-vs-obsidian-vs-notes?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Notion vs Obsidian vs Apple Notes](https://pollreal.com/badge/2vqpe6fs.svg)](https://pollreal.com/v/2vqpe6fs/notion-vs-obsidian-vs-notes?via=embed) |
+| [Notion vs Obsidian vs Apple Notes](https://pollreal.com/v/2vqpe6fs/notion-vs-obsidian-vs-notes?via=embed) | Final · no votes | [![Pollreal: Notion vs Obsidian vs Apple Notes](https://pollreal.com/badge/2vqpe6fs.svg)](https://pollreal.com/v/2vqpe6fs/notion-vs-obsidian-vs-notes?via=embed) |
 
 ### Open source & dev tools
 
@@ -168,7 +177,7 @@ A poll is only worth reading if nobody — no bot, no agent, no click farm — c
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [NVIDIA GeForce RTX 50 Series vs AMD Radeon RX 9000 Series vs Intel Arc](https://pollreal.com/v/9xr9wps5/geforce-rtx-50-series-vs-radeon-rx-9000-series-vs-arc?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: NVIDIA GeForce RTX 50 Series vs AMD Radeon RX 9000 Series vs Intel Arc](https://pollreal.com/badge/9xr9wps5.svg)](https://pollreal.com/v/9xr9wps5/geforce-rtx-50-series-vs-radeon-rx-9000-series-vs-arc?via=embed) |
+| [NVIDIA GeForce RTX 50 Series vs AMD Radeon RX 9000 Series vs Intel Arc](https://pollreal.com/v/9xr9wps5/geforce-rtx-50-series-vs-radeon-rx-9000-series-vs-arc?via=embed) | Final · no votes | [![Pollreal: NVIDIA GeForce RTX 50 Series vs AMD Radeon RX 9000 Series vs Intel Arc](https://pollreal.com/badge/9xr9wps5.svg)](https://pollreal.com/v/9xr9wps5/geforce-rtx-50-series-vs-radeon-rx-9000-series-vs-arc?via=embed) |
 
 ### Phones & tablets
 
@@ -180,7 +189,7 @@ A poll is only worth reading if nobody — no bot, no agent, no click farm — c
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Bambu Lab P1S vs Prusa Research CORE One vs Creality K2 Plus](https://pollreal.com/v/5bbbfsvb/p1s-vs-core-one-vs-k2-plus?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Bambu Lab P1S vs Prusa Research CORE One vs Creality K2 Plus](https://pollreal.com/badge/5bbbfsvb.svg)](https://pollreal.com/v/5bbbfsvb/p1s-vs-core-one-vs-k2-plus?via=embed) |
+| [Bambu Lab P1S vs Prusa Research CORE One vs Creality K2 Plus](https://pollreal.com/v/5bbbfsvb/p1s-vs-core-one-vs-k2-plus?via=embed) | Final · no votes | [![Pollreal: Bambu Lab P1S vs Prusa Research CORE One vs Creality K2 Plus](https://pollreal.com/badge/5bbbfsvb.svg)](https://pollreal.com/v/5bbbfsvb/p1s-vs-core-one-vs-k2-plus?via=embed) |
 
 ### Programming languages
 
@@ -198,13 +207,13 @@ A poll is only worth reading if nobody — no bot, no agent, no click farm — c
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Apple Watch vs Samsung Galaxy Watch vs Garmin Forerunner vs Google Pixel Watch](https://pollreal.com/v/gykhj7bk/apple-watch-vs-galaxy-watch-vs-forerunner-vs-pixel-watch?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Apple Watch vs Samsung Galaxy Watch vs Garmin Forerunner vs Google Pixel Watch](https://pollreal.com/badge/gykhj7bk.svg)](https://pollreal.com/v/gykhj7bk/apple-watch-vs-galaxy-watch-vs-forerunner-vs-pixel-watch?via=embed) |
+| [Apple Watch vs Samsung Galaxy Watch vs Garmin Forerunner vs Google Pixel Watch](https://pollreal.com/v/gykhj7bk/apple-watch-vs-galaxy-watch-vs-forerunner-vs-pixel-watch?via=embed) | Final · no votes | [![Pollreal: Apple Watch vs Samsung Galaxy Watch vs Garmin Forerunner vs Google Pixel Watch](https://pollreal.com/badge/gykhj7bk.svg)](https://pollreal.com/v/gykhj7bk/apple-watch-vs-galaxy-watch-vs-forerunner-vs-pixel-watch?via=embed) |
 
 ### Streaming services
 
 | Poll | Status | Live badge |
 |---|---|---|
-| [Spotify Premium vs Apple Music vs Google YouTube Music](https://pollreal.com/v/2cx4zchf/spotify-premium-vs-apple-music-vs-youtube-music?via=embed) | Open until 2026-11-06 · 0 votes so far | [![Pollreal: Spotify Premium vs Apple Music vs Google YouTube Music](https://pollreal.com/badge/2cx4zchf.svg)](https://pollreal.com/v/2cx4zchf/spotify-premium-vs-apple-music-vs-youtube-music?via=embed) |
+| [Spotify Premium vs Apple Music vs Google YouTube Music](https://pollreal.com/v/2cx4zchf/spotify-premium-vs-apple-music-vs-youtube-music?via=embed) | Final · no votes | [![Pollreal: Spotify Premium vs Apple Music vs Google YouTube Music](https://pollreal.com/badge/2cx4zchf.svg)](https://pollreal.com/v/2cx4zchf/spotify-premium-vs-apple-music-vs-youtube-music?via=embed) |
 
 ### Terminals & shells
 
@@ -242,4 +251,4 @@ Every poll has a badge that updates by itself. Add `?for=N` to speak for candida
 While a poll is open its split is shown only to people who voted, so the badge says "voting"; the numbers appear when it closes.
 
 ---
-Updated 2026-11-05 11:02 UTC from https://pollreal.com/api/public/polls
+Updated 2026-11-06 11:00 UTC from https://pollreal.com/api/public/polls
