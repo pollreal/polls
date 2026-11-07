@@ -55,6 +55,16 @@ Scores use the Bradley–Terry model on every verified vote (the method behind t
 | Programming languages | 0 of 4 | [Ranking](https://pollreal.com/rank/sw-language) |
 | Code editors & IDEs | 0 of 4 | [Ranking](https://pollreal.com/rank/sw-editor) |
 | Operating systems | 0 of 3 | [Ranking](https://pollreal.com/rank/sw-os) |
+| Streaming services | 0 of 3 | [Ranking](https://pollreal.com/rank/sw-streaming) |
+| Notes & docs | 0 of 3 | [Ranking](https://pollreal.com/rank/sw-notes) |
+| Printers & 3D printers | 0 of 3 | [Ranking](https://pollreal.com/rank/printer) |
+| Coffee & drinks | 0 of 2 | [Ranking](https://pollreal.com/rank/coffee) |
+| PCs & laptops | 0 of 3 | [Ranking](https://pollreal.com/rank/pc) |
+| Cameras & drones | 0 of 3 | [Ranking](https://pollreal.com/rank/camera) |
+| Car & accessories | 0 of 3 | [Ranking](https://pollreal.com/rank/car) |
+| Fashion | 0 of 4 | [Ranking](https://pollreal.com/rank/fashion) |
+| Smartwatches & wearables | 0 of 4 | [Ranking](https://pollreal.com/rank/wearable) |
+| Messaging & team chat | 0 of 3 | [Ranking](https://pollreal.com/rank/sw-chat) |
 
 ## Build it with us
 
@@ -251,4 +261,4 @@ Every poll has a badge that updates by itself. Add `?for=N` to speak for candida
 While a poll is open its split is shown only to people who voted, so the badge says "voting"; the numbers appear when it closes.
 
 ---
-Updated 2026-11-06 11:00 UTC from https://pollreal.com/api/public/polls
+Updated 2026-11-07 10:20 UTC from https://pollreal.com/api/public/polls
