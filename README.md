@@ -261,4 +261,4 @@ Every poll has a badge that updates by itself. Add `?for=N` to speak for candida
 While a poll is open its split is shown only to people who voted, so the badge says "voting"; the numbers appear when it closes.
 
 ---
-Updated 2026-11-16 11:32 UTC from https://pollreal.com/api/public/polls
+Updated 2026-11-17 11:58 UTC from https://pollreal.com/api/public/polls
